@@ -1,0 +1,14 @@
+C:\Users\50246\Desktop\Ejercicios programación\Condiciones\Condiciones\bin\Debug\net8.0\Condiciones.exe
+C:\Users\50246\Desktop\Ejercicios programación\Condiciones\Condiciones\bin\Debug\net8.0\Condiciones.deps.json
+C:\Users\50246\Desktop\Ejercicios programación\Condiciones\Condiciones\bin\Debug\net8.0\Condiciones.runtimeconfig.json
+C:\Users\50246\Desktop\Ejercicios programación\Condiciones\Condiciones\bin\Debug\net8.0\Condiciones.dll
+C:\Users\50246\Desktop\Ejercicios programación\Condiciones\Condiciones\bin\Debug\net8.0\Condiciones.pdb
+C:\Users\50246\Desktop\Ejercicios programación\Condiciones\Condiciones\obj\Debug\net8.0\Condiciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50246\Desktop\Ejercicios programación\Condiciones\Condiciones\obj\Debug\net8.0\Condiciones.AssemblyInfoInputs.cache
+C:\Users\50246\Desktop\Ejercicios programación\Condiciones\Condiciones\obj\Debug\net8.0\Condiciones.AssemblyInfo.cs
+C:\Users\50246\Desktop\Ejercicios programación\Condiciones\Condiciones\obj\Debug\net8.0\Condiciones.csproj.CoreCompileInputs.cache
+C:\Users\50246\Desktop\Ejercicios programación\Condiciones\Condiciones\obj\Debug\net8.0\Condiciones.dll
+C:\Users\50246\Desktop\Ejercicios programación\Condiciones\Condiciones\obj\Debug\net8.0\refint\Condiciones.dll
+C:\Users\50246\Desktop\Ejercicios programación\Condiciones\Condiciones\obj\Debug\net8.0\Condiciones.pdb
+C:\Users\50246\Desktop\Ejercicios programación\Condiciones\Condiciones\obj\Debug\net8.0\Condiciones.genruntimeconfig.cache
+C:\Users\50246\Desktop\Ejercicios programación\Condiciones\Condiciones\obj\Debug\net8.0\ref\Condiciones.dll

@@ -1,0 +1,14 @@
+C:\Users\50246\Desktop\Ejercicios programación\Primer programa\Primer programa\obj\Debug\net8.0\Primer programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50246\Desktop\Ejercicios programación\Primer programa\Primer programa\obj\Debug\net8.0\Primer programa.AssemblyInfoInputs.cache
+C:\Users\50246\Desktop\Ejercicios programación\Primer programa\Primer programa\obj\Debug\net8.0\Primer programa.AssemblyInfo.cs
+C:\Users\50246\Desktop\Ejercicios programación\Primer programa\Primer programa\obj\Debug\net8.0\Primer programa.csproj.CoreCompileInputs.cache
+C:\Users\50246\Desktop\Ejercicios programación\Primer programa\Primer programa\bin\Debug\net8.0\Primer programa.exe
+C:\Users\50246\Desktop\Ejercicios programación\Primer programa\Primer programa\bin\Debug\net8.0\Primer programa.deps.json
+C:\Users\50246\Desktop\Ejercicios programación\Primer programa\Primer programa\bin\Debug\net8.0\Primer programa.runtimeconfig.json
+C:\Users\50246\Desktop\Ejercicios programación\Primer programa\Primer programa\bin\Debug\net8.0\Primer programa.dll
+C:\Users\50246\Desktop\Ejercicios programación\Primer programa\Primer programa\bin\Debug\net8.0\Primer programa.pdb
+C:\Users\50246\Desktop\Ejercicios programación\Primer programa\Primer programa\obj\Debug\net8.0\Primer programa.dll
+C:\Users\50246\Desktop\Ejercicios programación\Primer programa\Primer programa\obj\Debug\net8.0\refint\Primer programa.dll
+C:\Users\50246\Desktop\Ejercicios programación\Primer programa\Primer programa\obj\Debug\net8.0\Primer programa.pdb
+C:\Users\50246\Desktop\Ejercicios programación\Primer programa\Primer programa\obj\Debug\net8.0\Primer programa.genruntimeconfig.cache
+C:\Users\50246\Desktop\Ejercicios programación\Primer programa\Primer programa\obj\Debug\net8.0\ref\Primer programa.dll

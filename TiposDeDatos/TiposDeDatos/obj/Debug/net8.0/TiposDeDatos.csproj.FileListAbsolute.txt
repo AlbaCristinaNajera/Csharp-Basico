@@ -1,0 +1,14 @@
+C:\Users\50246\Desktop\Ejercicios programación\TiposDeDatos\TiposDeDatos\bin\Debug\net8.0\TiposDeDatos.exe
+C:\Users\50246\Desktop\Ejercicios programación\TiposDeDatos\TiposDeDatos\bin\Debug\net8.0\TiposDeDatos.deps.json
+C:\Users\50246\Desktop\Ejercicios programación\TiposDeDatos\TiposDeDatos\bin\Debug\net8.0\TiposDeDatos.runtimeconfig.json
+C:\Users\50246\Desktop\Ejercicios programación\TiposDeDatos\TiposDeDatos\bin\Debug\net8.0\TiposDeDatos.dll
+C:\Users\50246\Desktop\Ejercicios programación\TiposDeDatos\TiposDeDatos\bin\Debug\net8.0\TiposDeDatos.pdb
+C:\Users\50246\Desktop\Ejercicios programación\TiposDeDatos\TiposDeDatos\obj\Debug\net8.0\TiposDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50246\Desktop\Ejercicios programación\TiposDeDatos\TiposDeDatos\obj\Debug\net8.0\TiposDeDatos.AssemblyInfoInputs.cache
+C:\Users\50246\Desktop\Ejercicios programación\TiposDeDatos\TiposDeDatos\obj\Debug\net8.0\TiposDeDatos.AssemblyInfo.cs
+C:\Users\50246\Desktop\Ejercicios programación\TiposDeDatos\TiposDeDatos\obj\Debug\net8.0\TiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\50246\Desktop\Ejercicios programación\TiposDeDatos\TiposDeDatos\obj\Debug\net8.0\TiposDeDatos.dll
+C:\Users\50246\Desktop\Ejercicios programación\TiposDeDatos\TiposDeDatos\obj\Debug\net8.0\refint\TiposDeDatos.dll
+C:\Users\50246\Desktop\Ejercicios programación\TiposDeDatos\TiposDeDatos\obj\Debug\net8.0\TiposDeDatos.pdb
+C:\Users\50246\Desktop\Ejercicios programación\TiposDeDatos\TiposDeDatos\obj\Debug\net8.0\TiposDeDatos.genruntimeconfig.cache
+C:\Users\50246\Desktop\Ejercicios programación\TiposDeDatos\TiposDeDatos\obj\Debug\net8.0\ref\TiposDeDatos.dll

@@ -1,0 +1,14 @@
+C:\Users\50246\Desktop\Ejercicios programación\LeerTeclado\LeerTeclado\bin\Debug\net8.0\LeerTeclado.exe
+C:\Users\50246\Desktop\Ejercicios programación\LeerTeclado\LeerTeclado\bin\Debug\net8.0\LeerTeclado.deps.json
+C:\Users\50246\Desktop\Ejercicios programación\LeerTeclado\LeerTeclado\bin\Debug\net8.0\LeerTeclado.runtimeconfig.json
+C:\Users\50246\Desktop\Ejercicios programación\LeerTeclado\LeerTeclado\bin\Debug\net8.0\LeerTeclado.dll
+C:\Users\50246\Desktop\Ejercicios programación\LeerTeclado\LeerTeclado\bin\Debug\net8.0\LeerTeclado.pdb
+C:\Users\50246\Desktop\Ejercicios programación\LeerTeclado\LeerTeclado\obj\Debug\net8.0\LeerTeclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50246\Desktop\Ejercicios programación\LeerTeclado\LeerTeclado\obj\Debug\net8.0\LeerTeclado.AssemblyInfoInputs.cache
+C:\Users\50246\Desktop\Ejercicios programación\LeerTeclado\LeerTeclado\obj\Debug\net8.0\LeerTeclado.AssemblyInfo.cs
+C:\Users\50246\Desktop\Ejercicios programación\LeerTeclado\LeerTeclado\obj\Debug\net8.0\LeerTeclado.csproj.CoreCompileInputs.cache
+C:\Users\50246\Desktop\Ejercicios programación\LeerTeclado\LeerTeclado\obj\Debug\net8.0\LeerTeclado.dll
+C:\Users\50246\Desktop\Ejercicios programación\LeerTeclado\LeerTeclado\obj\Debug\net8.0\refint\LeerTeclado.dll
+C:\Users\50246\Desktop\Ejercicios programación\LeerTeclado\LeerTeclado\obj\Debug\net8.0\LeerTeclado.pdb
+C:\Users\50246\Desktop\Ejercicios programación\LeerTeclado\LeerTeclado\obj\Debug\net8.0\LeerTeclado.genruntimeconfig.cache
+C:\Users\50246\Desktop\Ejercicios programación\LeerTeclado\LeerTeclado\obj\Debug\net8.0\ref\LeerTeclado.dll

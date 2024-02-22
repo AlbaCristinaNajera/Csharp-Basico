@@ -1,0 +1,14 @@
+C:\Users\50246\Desktop\Ejercicios programación\EntradaSalida\EntradaSalida\bin\Debug\net8.0\EntradaSalida.exe
+C:\Users\50246\Desktop\Ejercicios programación\EntradaSalida\EntradaSalida\bin\Debug\net8.0\EntradaSalida.deps.json
+C:\Users\50246\Desktop\Ejercicios programación\EntradaSalida\EntradaSalida\bin\Debug\net8.0\EntradaSalida.runtimeconfig.json
+C:\Users\50246\Desktop\Ejercicios programación\EntradaSalida\EntradaSalida\bin\Debug\net8.0\EntradaSalida.dll
+C:\Users\50246\Desktop\Ejercicios programación\EntradaSalida\EntradaSalida\bin\Debug\net8.0\EntradaSalida.pdb
+C:\Users\50246\Desktop\Ejercicios programación\EntradaSalida\EntradaSalida\obj\Debug\net8.0\EntradaSalida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50246\Desktop\Ejercicios programación\EntradaSalida\EntradaSalida\obj\Debug\net8.0\EntradaSalida.AssemblyInfoInputs.cache
+C:\Users\50246\Desktop\Ejercicios programación\EntradaSalida\EntradaSalida\obj\Debug\net8.0\EntradaSalida.AssemblyInfo.cs
+C:\Users\50246\Desktop\Ejercicios programación\EntradaSalida\EntradaSalida\obj\Debug\net8.0\EntradaSalida.csproj.CoreCompileInputs.cache
+C:\Users\50246\Desktop\Ejercicios programación\EntradaSalida\EntradaSalida\obj\Debug\net8.0\EntradaSalida.dll
+C:\Users\50246\Desktop\Ejercicios programación\EntradaSalida\EntradaSalida\obj\Debug\net8.0\refint\EntradaSalida.dll
+C:\Users\50246\Desktop\Ejercicios programación\EntradaSalida\EntradaSalida\obj\Debug\net8.0\EntradaSalida.pdb
+C:\Users\50246\Desktop\Ejercicios programación\EntradaSalida\EntradaSalida\obj\Debug\net8.0\EntradaSalida.genruntimeconfig.cache
+C:\Users\50246\Desktop\Ejercicios programación\EntradaSalida\EntradaSalida\obj\Debug\net8.0\ref\EntradaSalida.dll
